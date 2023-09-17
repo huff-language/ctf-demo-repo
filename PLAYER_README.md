@@ -4,14 +4,9 @@ Greetings, Huffoor! This document will guide you through the steps to solve this
 
 ## Overview
 
-_This is where you describe what the CTF is about, for example:_
+This is an optimization challenge. Try and optimize the runtime gas for SimpleStore.huff contract found in PLAYER_SOLUTION.huff,  The winner will be the submission with the lowest total gas.
 
-_"In this CTF you will optimize this contract..."_
-
-_"Write a contract with a function that returns a square root..."_
-
-_"Steal all the ETH from this Vault contract with a contract < 100 bytes..."_
-
+*Ties will be decided by looking at bytecode length first, and then to submission time.
 
 
 ## Getting Started
